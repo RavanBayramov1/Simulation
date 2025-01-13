@@ -1,0 +1,11 @@
+C:\Users\Classtime\Desktop\Hospital\Hospital.Core\bin\Debug\net8.0\Hospital.Core.deps.json
+C:\Users\Classtime\Desktop\Hospital\Hospital.Core\bin\Debug\net8.0\Hospital.Core.dll
+C:\Users\Classtime\Desktop\Hospital\Hospital.Core\bin\Debug\net8.0\Hospital.Core.pdb
+C:\Users\Classtime\Desktop\Hospital\Hospital.Core\obj\Debug\net8.0\Hospital.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\Desktop\Hospital\Hospital.Core\obj\Debug\net8.0\Hospital.Core.AssemblyInfoInputs.cache
+C:\Users\Classtime\Desktop\Hospital\Hospital.Core\obj\Debug\net8.0\Hospital.Core.AssemblyInfo.cs
+C:\Users\Classtime\Desktop\Hospital\Hospital.Core\obj\Debug\net8.0\Hospital.Core.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\Desktop\Hospital\Hospital.Core\obj\Debug\net8.0\Hospital.Core.dll
+C:\Users\Classtime\Desktop\Hospital\Hospital.Core\obj\Debug\net8.0\refint\Hospital.Core.dll
+C:\Users\Classtime\Desktop\Hospital\Hospital.Core\obj\Debug\net8.0\Hospital.Core.pdb
+C:\Users\Classtime\Desktop\Hospital\Hospital.Core\obj\Debug\net8.0\ref\Hospital.Core.dll
