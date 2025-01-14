@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Plumberz.Core.Entities;
 
-public class Tecnician
+public class Tecnician : BaseEntity
 {
     public string Name { get; set; }
     public string Surname { get; set; }

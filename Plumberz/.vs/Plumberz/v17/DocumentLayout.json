@@ -1,78 +1,118 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Classtime\\Desktop\\Plumberz\\",
+  "WorkspaceRootPath": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C4B3ECF6-9940-4CCF-BEC6-6BC5AB966318}|Plumberz.Core\\Plumberz.Core.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.core\\entities\\tecnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B3ECF6-9940-4CCF-BEC6-6BC5AB966318}|Plumberz.Core\\Plumberz.Core.csproj|solutionrelative:plumberz.core\\entities\\tecnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4B3ECF6-9940-4CCF-BEC6-6BC5AB966318}|Plumberz.Core\\Plumberz.Core.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B3ECF6-9940-4CCF-BEC6-6BC5AB966318}|Plumberz.Core\\Plumberz.Core.csproj|solutionrelative:plumberz.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0C0F3B-DBF5-4A18-84DD-BC50DFA28735}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.dal\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0C0F3B-DBF5-4A18-84DD-BC50DFA28735}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz.bl\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz.bl\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz.bl\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz.bl\\services\\implements\\tecnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\services\\implements\\tecnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz.bl\\services\\interfaces\\itecnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\services\\interfaces\\itecnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz.bl\\viewmodels\\tecnicians\\tecnicianupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.bl\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.bl\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.bl\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.bl\\services\\implements\\tecnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\services\\implements\\tecnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.bl\\services\\interfaces\\itecnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\services\\interfaces\\itecnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.bl\\viewmodels\\tecnicians\\tecnicianupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\viewmodels\\tecnicians\\tecnicianupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz.bl\\viewmodels\\tecnicians\\tecnicianlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.bl\\viewmodels\\tecnicians\\tecnicianlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\viewmodels\\tecnicians\\tecnicianlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz.bl\\viewmodels\\tecnicians\\tecniciancreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.bl\\viewmodels\\tecnicians\\tecniciancreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\viewmodels\\tecnicians\\tecniciancreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz.bl\\viewmodels\\departments\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.bl\\viewmodels\\departments\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\viewmodels\\departments\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz.bl\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.bl\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz.bl\\viewmodels\\departments\\departmentlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\99450\\desktop\\simulation\\plumberz\\plumberz.bl\\viewmodels\\departments\\departmentlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95EA1D0E-DB11-4A09-B96F-588E982D61F2}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\viewmodels\\departments\\departmentlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|c:\\users\\classtime\\desktop\\plumberz\\plumberz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04BE1980-D82C-404A-860A-BAF9E101F096}|Plumberz\\Plumberz.MVC.csproj|solutionrelative:plumberz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,119 +122,183 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "Plumberz\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "Plumberz\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEBAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T10:06:55.347Z",
+              "Title": "Tecnician.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.Core\\Entities\\Tecnician.cs",
+              "RelativeDocumentMoniker": "Plumberz.Core\\Entities\\Tecnician.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.Core\\Entities\\Tecnician.cs",
+              "RelativeToolTip": "Plumberz.Core\\Entities\\Tecnician.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:59:09.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "Plumberz\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "Plumberz\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.Core\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Plumberz.Core\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.Core\\Entities\\Department.cs",
+              "RelativeToolTip": "Plumberz.Core\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T07:46:04.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TecnicianService.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\Services\\Implements\\TecnicianService.cs",
-              "RelativeDocumentMoniker": "Plumberz.BL\\Services\\Implements\\TecnicianService.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\Services\\Implements\\TecnicianService.cs",
-              "RelativeToolTip": "Plumberz.BL\\Services\\Implements\\TecnicianService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T07:05:33.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\Services\\Implements\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "Plumberz.BL\\Services\\Implements\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\Services\\Implements\\DepartmentService.cs",
-              "RelativeToolTip": "Plumberz.BL\\Services\\Implements\\DepartmentService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T07:09:56.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\Profiles\\DepartmentProfile.cs",
-              "RelativeDocumentMoniker": "Plumberz.BL\\Profiles\\DepartmentProfile.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\Profiles\\DepartmentProfile.cs",
-              "RelativeToolTip": "Plumberz.BL\\Profiles\\DepartmentProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T07:14:27.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IDepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\Services\\Interfaces\\IDepartmentService.cs",
-              "RelativeDocumentMoniker": "Plumberz.BL\\Services\\Interfaces\\IDepartmentService.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\Services\\Interfaces\\IDepartmentService.cs",
-              "RelativeToolTip": "Plumberz.BL\\Services\\Interfaces\\IDepartmentService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T06:58:30.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ITecnicianService.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\Services\\Interfaces\\ITecnicianService.cs",
-              "RelativeDocumentMoniker": "Plumberz.BL\\Services\\Interfaces\\ITecnicianService.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\Services\\Interfaces\\ITecnicianService.cs",
-              "RelativeToolTip": "Plumberz.BL\\Services\\Interfaces\\ITecnicianService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T07:01:55.518Z",
+              "WhenOpened": "2025-01-14T20:57:45.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Plumberz.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "Plumberz.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:57:35.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ServiceRegistration.cs",
+              "RelativeToolTip": "Plumberz.BL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:52:27.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Plumberz\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Plumberz\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T20:43:08.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Plumberz\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Plumberz\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:42:49.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Plumberz\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Plumberz\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T20:19:49.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Plumberz\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Plumberz\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAOAAAAAAAAAAAAAmwHIBAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAIcBAAAAAAAAAAAiwJwBAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-14T07:43:21.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Plumberz\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Plumberz\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAOcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T20:19:27.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Plumberz\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Plumberz\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAGoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T20:12:12.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Program.cs",
+              "RelativeDocumentMoniker": "Plumberz\\Program.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Program.cs",
+              "RelativeToolTip": "Plumberz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T05:27:17.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Plumberz\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Plumberz\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:46:04.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Plumberz\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Plumberz\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -203,11 +307,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Plumberz\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Plumberz\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T10:06:55.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Plumberz\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Plumberz\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T20:19:42.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Plumberz\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Plumberz\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:40:01.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Plumberz\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Plumberz\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -216,107 +359,135 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Plumberz\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Plumberz\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "ITecnicianService.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\Services\\Interfaces\\ITecnicianService.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\Services\\Interfaces\\ITecnicianService.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\Services\\Interfaces\\ITecnicianService.cs",
+              "RelativeToolTip": "Plumberz.BL\\Services\\Interfaces\\ITecnicianService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T07:40:01.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T07:01:55.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TecnicianListItemVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianListItemVM.cs",
-              "RelativeDocumentMoniker": "Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianListItemVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianListItemVM.cs",
-              "RelativeToolTip": "Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianListItemVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\Services\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\Services\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\Services\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "Plumberz.BL\\Services\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T06:57:07.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T06:58:30.751Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TecnicianUpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianUpdateVM.cs",
-              "RelativeDocumentMoniker": "Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianUpdateVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianUpdateVM.cs",
-              "RelativeToolTip": "Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianUpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\Profiles\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\Profiles\\DepartmentProfile.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\Profiles\\DepartmentProfile.cs",
+              "RelativeToolTip": "Plumberz.BL\\Profiles\\DepartmentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T06:56:51.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TecnicianCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianCreateVM.cs",
-              "RelativeDocumentMoniker": "Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianCreateVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianCreateVM.cs",
-              "RelativeToolTip": "Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T06:55:40.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DepartmentUpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
-              "RelativeDocumentMoniker": "Plumberz.BL\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
-              "RelativeToolTip": "Plumberz.BL\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T06:55:27.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DepartmentListItemVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\ViewModels\\Departments\\DepartmentListItemVM.cs",
-              "RelativeDocumentMoniker": "Plumberz.BL\\ViewModels\\Departments\\DepartmentListItemVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\ViewModels\\Departments\\DepartmentListItemVM.cs",
-              "RelativeToolTip": "Plumberz.BL\\ViewModels\\Departments\\DepartmentListItemVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T06:55:24.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DepartmentCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\ViewModels\\Departments\\DepartmentCreateVM.cs",
-              "RelativeDocumentMoniker": "Plumberz.BL\\ViewModels\\Departments\\DepartmentCreateVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz.BL\\ViewModels\\Departments\\DepartmentCreateVM.cs",
-              "RelativeToolTip": "Plumberz.BL\\ViewModels\\Departments\\DepartmentCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T06:52:59.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T07:14:27.224Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Program.cs",
-              "RelativeDocumentMoniker": "Plumberz\\Program.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\Program.cs",
-              "RelativeToolTip": "Plumberz\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\Services\\Implements\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\Services\\Implements\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\Services\\Implements\\DepartmentService.cs",
+              "RelativeToolTip": "Plumberz.BL\\Services\\Implements\\DepartmentService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T05:27:17.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T07:09:56.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TecnicianService.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\Services\\Implements\\TecnicianService.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\Services\\Implements\\TecnicianService.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\Services\\Implements\\TecnicianService.cs",
+              "RelativeToolTip": "Plumberz.BL\\Services\\Implements\\TecnicianService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:05:33.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TecnicianListItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianListItemVM.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianListItemVM.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianListItemVM.cs",
+              "RelativeToolTip": "Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianListItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T06:57:07.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TecnicianUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianUpdateVM.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianUpdateVM.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianUpdateVM.cs",
+              "RelativeToolTip": "Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T06:56:51.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TecnicianCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianCreateVM.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianCreateVM.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianCreateVM.cs",
+              "RelativeToolTip": "Plumberz.BL\\ViewModels\\Tecnicians\\TecnicianCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T06:55:40.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DepartmentUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "RelativeToolTip": "Plumberz.BL\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T06:55:27.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DepartmentListItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ViewModels\\Departments\\DepartmentListItemVM.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\ViewModels\\Departments\\DepartmentListItemVM.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ViewModels\\Departments\\DepartmentListItemVM.cs",
+              "RelativeToolTip": "Plumberz.BL\\ViewModels\\Departments\\DepartmentListItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T06:55:24.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Simulation\\Plumberz\\Plumberz.BL\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeToolTip": "Plumberz.BL\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T06:52:59.76Z"
             }
           ]
         }

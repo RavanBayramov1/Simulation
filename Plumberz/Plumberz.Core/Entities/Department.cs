@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Plumberz.Core.Entities;
 
-public class Department
+public class Department : BaseEntity
 {
     public string Name { get; set; }
     public ICollection<Tecnician> Tecnicians { get; set; }

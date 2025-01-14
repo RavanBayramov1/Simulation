@@ -6,8 +6,13 @@ using Plumberz.BL.ViewModels.Departments;
 namespace Plumberz.MVC.Areas.Admin.Controllers;
 
 [Area("Admin")]
-public class DepartmentController(IDepartmentService _service) : Controller
+public class DepartmentController : Controller
 {
+    private readonly IDepartmentService _service;
+    public DepartmentController(IDepartmentService Service)
+    {
+        _service = Service;
+    }
     public async Task<IActionResult> Index()
     {
         return View(await _service.GetAllAsync());
