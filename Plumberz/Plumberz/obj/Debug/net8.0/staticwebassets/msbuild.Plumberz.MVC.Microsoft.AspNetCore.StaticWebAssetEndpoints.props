@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Plumberz.MVC/Plumberz.MVC.a0qoep4f8a.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Plumberz.MVC.a0qoep4f8a.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a0qoep4f8a"},{"Name":"integrity","Value":"sha256-qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg="},{"Name":"label","Value":"_content/Plumberz.MVC/Plumberz.MVC.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Jan 2025 07:41:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Plumberz.MVC/Plumberz.MVC.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Plumberz.MVC.a0qoep4f8a.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Jan 2025 07:41:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

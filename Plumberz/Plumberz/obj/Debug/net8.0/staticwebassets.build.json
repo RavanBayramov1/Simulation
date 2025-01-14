@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "XZ3vNRqOB5kzNWLvu6QeJYy8fCnzlggDQJX0Qputo8k=",
+  "Source": "Plumberz.MVC",
+  "BasePath": "_content/Plumberz.MVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Plumberz.MVC\\wwwroot",
+      "Source": "Plumberz.MVC",
+      "ContentRoot": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\wwwroot\\",
+      "BasePath": "_content/Plumberz.MVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Plumberz.MVC.styles.css",
+      "SourceId": "Plumberz.MVC",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Plumberz.MVC",
+      "RelativePath": "Plumberz.MVC#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "a0qoep4f8a",
+      "Integrity": "qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Plumberz.MVC.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Plumberz.MVC.bundle.scp.css",
+      "SourceId": "Plumberz.MVC",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Plumberz.MVC",
+      "RelativePath": "Plumberz.MVC#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "a0qoep4f8a",
+      "Integrity": "qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Plumberz.MVC.bundle.scp.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Plumberz.MVC.a0qoep4f8a.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Plumberz.MVC.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 07:41:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a0qoep4f8a"
+        },
+        {
+          "Name": "label",
+          "Value": "Plumberz.MVC.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg="
+        }
+      ]
+    },
+    {
+      "Route": "Plumberz.MVC.a0qoep4f8a.styles.css",
+      "AssetFile": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Plumberz.MVC.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 07:41:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a0qoep4f8a"
+        },
+        {
+          "Name": "label",
+          "Value": "Plumberz.MVC.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg="
+        }
+      ]
+    },
+    {
+      "Route": "Plumberz.MVC.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Plumberz.MVC.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 07:41:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg="
+        }
+      ]
+    },
+    {
+      "Route": "Plumberz.MVC.styles.css",
+      "AssetFile": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Plumberz.MVC.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 07:41:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg="
+        }
+      ]
+    }
+  ]
+}

@@ -2862,11 +2862,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Classtime\\Desktop\\Hospital\\Hospital.BL\\Hospital.BL.csproj",
+      "projectUniqueName": "C:\\Users\\Classtime\\Desktop\\Project\\Hospital\\Hospital.BL\\Hospital.BL.csproj",
       "projectName": "Hospital.BL",
-      "projectPath": "C:\\Users\\Classtime\\Desktop\\Hospital\\Hospital.BL\\Hospital.BL.csproj",
+      "projectPath": "C:\\Users\\Classtime\\Desktop\\Project\\Hospital\\Hospital.BL\\Hospital.BL.csproj",
       "packagesPath": "C:\\Users\\Classtime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Classtime\\Desktop\\Hospital\\Hospital.BL\\obj\\",
+      "outputPath": "C:\\Users\\Classtime\\Desktop\\Project\\Hospital\\Hospital.BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2888,8 +2888,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Classtime\\Desktop\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj": {
-              "projectPath": "C:\\Users\\Classtime\\Desktop\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj"
+            "C:\\Users\\Classtime\\Desktop\\Project\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj": {
+              "projectPath": "C:\\Users\\Classtime\\Desktop\\Project\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj"
             }
           }
         }

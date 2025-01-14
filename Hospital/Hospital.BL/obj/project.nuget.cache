@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZTtqJu9AFgQ=",
+  "dgSpecHash": "vgZKeydZM10=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Classtime\\Desktop\\Hospital\\Hospital.BL\\Hospital.BL.csproj",
+  "projectFilePath": "C:\\Users\\Classtime\\Desktop\\Project\\Hospital\\Hospital.BL\\Hospital.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Classtime\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Classtime\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

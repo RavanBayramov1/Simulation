@@ -1,0 +1,17 @@
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\obj\Debug\net8.0\Plumberz.BL.csproj.AssemblyReference.cache
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\obj\Debug\net8.0\Plumberz.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\obj\Debug\net8.0\Plumberz.BL.AssemblyInfoInputs.cache
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\obj\Debug\net8.0\Plumberz.BL.AssemblyInfo.cs
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\obj\Debug\net8.0\Plumberz.BL.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\bin\Debug\net8.0\Plumberz.BL.deps.json
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\bin\Debug\net8.0\Plumberz.BL.dll
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\bin\Debug\net8.0\Plumberz.BL.pdb
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\bin\Debug\net8.0\Plumberz.Core.dll
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\bin\Debug\net8.0\Plumberz.DAL.dll
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\bin\Debug\net8.0\Plumberz.DAL.pdb
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\bin\Debug\net8.0\Plumberz.Core.pdb
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\obj\Debug\net8.0\Plumberz.57869AF3.Up2Date
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\obj\Debug\net8.0\Plumberz.BL.dll
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\obj\Debug\net8.0\refint\Plumberz.BL.dll
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\obj\Debug\net8.0\Plumberz.BL.pdb
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.BL\obj\Debug\net8.0\ref\Plumberz.BL.dll

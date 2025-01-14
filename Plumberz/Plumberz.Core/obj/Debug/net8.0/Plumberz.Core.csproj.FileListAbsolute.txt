@@ -1,0 +1,11 @@
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.Core\bin\Debug\net8.0\Plumberz.Core.deps.json
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.Core\bin\Debug\net8.0\Plumberz.Core.dll
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.Core\bin\Debug\net8.0\Plumberz.Core.pdb
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.Core\obj\Debug\net8.0\Plumberz.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.Core\obj\Debug\net8.0\Plumberz.Core.AssemblyInfoInputs.cache
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.Core\obj\Debug\net8.0\Plumberz.Core.AssemblyInfo.cs
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.Core\obj\Debug\net8.0\Plumberz.Core.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.Core\obj\Debug\net8.0\Plumberz.Core.dll
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.Core\obj\Debug\net8.0\refint\Plumberz.Core.dll
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.Core\obj\Debug\net8.0\Plumberz.Core.pdb
+C:\Users\Classtime\Desktop\Plumberz\Plumberz.Core\obj\Debug\net8.0\ref\Plumberz.Core.dll

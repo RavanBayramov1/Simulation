@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Classtime\\Desktop\\Plumberz\\Plumberz\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Plumberz.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Plumberz.MVC.a0qoep4f8a.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Plumberz.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Plumberz.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Plumberz.MVC.props",
+      "PackagePath": "build\\Plumberz.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Plumberz.MVC.props",
+      "PackagePath": "buildMultiTargeting\\Plumberz.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Plumberz.MVC.props",
+      "PackagePath": "buildTransitive\\Plumberz.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

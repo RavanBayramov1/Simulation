@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Classtime\\Desktop\\Hospital\\Hospital.Core\\Hospital.Core.csproj": {}
+    "C:\\Users\\Classtime\\Desktop\\Project\\Hospital\\Hospital.Core\\Hospital.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Classtime\\Desktop\\Hospital\\Hospital.Core\\Hospital.Core.csproj": {
+    "C:\\Users\\Classtime\\Desktop\\Project\\Hospital\\Hospital.Core\\Hospital.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Classtime\\Desktop\\Hospital\\Hospital.Core\\Hospital.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Classtime\\Desktop\\Project\\Hospital\\Hospital.Core\\Hospital.Core.csproj",
         "projectName": "Hospital.Core",
-        "projectPath": "C:\\Users\\Classtime\\Desktop\\Hospital\\Hospital.Core\\Hospital.Core.csproj",
+        "projectPath": "C:\\Users\\Classtime\\Desktop\\Project\\Hospital\\Hospital.Core\\Hospital.Core.csproj",
         "packagesPath": "C:\\Users\\Classtime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Classtime\\Desktop\\Hospital\\Hospital.Core\\obj\\",
+        "outputPath": "C:\\Users\\Classtime\\Desktop\\Project\\Hospital\\Hospital.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

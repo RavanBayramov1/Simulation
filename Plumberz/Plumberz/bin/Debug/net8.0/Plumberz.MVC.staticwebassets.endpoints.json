@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Plumberz.MVC.a0qoep4f8a.styles.css",
+      "AssetFile": "Plumberz.MVC.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 07:41:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a0qoep4f8a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg="
+        },
+        {
+          "Name": "label",
+          "Value": "Plumberz.MVC.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "Plumberz.MVC.styles.css",
+      "AssetFile": "Plumberz.MVC.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 07:41:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qmuEoSZ4Ews7E6HLys1Lszn29cXJho4ZxSts72x/4Lg="
+        }
+      ]
+    }
+  ]
+}
