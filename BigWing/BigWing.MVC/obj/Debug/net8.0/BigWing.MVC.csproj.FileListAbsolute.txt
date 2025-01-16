@@ -1,0 +1,8 @@
+C:\Users\Classtime\Desktop\BigWing\BigWing.MVC\obj\Debug\net8.0\BigWing.MVC.csproj.AssemblyReference.cache
+C:\Users\Classtime\Desktop\BigWing\BigWing.MVC\obj\Debug\net8.0\BigWing.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\Desktop\BigWing\BigWing.MVC\obj\Debug\net8.0\BigWing.MVC.AssemblyInfoInputs.cache
+C:\Users\Classtime\Desktop\BigWing\BigWing.MVC\obj\Debug\net8.0\BigWing.MVC.AssemblyInfo.cs
+C:\Users\Classtime\Desktop\BigWing\BigWing.MVC\obj\Debug\net8.0\BigWing.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\Desktop\BigWing\BigWing.MVC\obj\Debug\net8.0\BigWing.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Classtime\Desktop\BigWing\BigWing.MVC\obj\Debug\net8.0\BigWing.MVC.RazorAssemblyInfo.cache
+C:\Users\Classtime\Desktop\BigWing\BigWing.MVC\obj\Debug\net8.0\BigWing.MVC.RazorAssemblyInfo.cs

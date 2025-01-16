@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime\\Desktop\\BigWing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D0368A-EECD-419F-A5EF-DDB24AA13688}|BigWing.MVC\\BigWing.MVC.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.mvc\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D0368A-EECD-419F-A5EF-DDB24AA13688}|BigWing.MVC\\BigWing.MVC.csproj|solutionrelative:bigwing.mvc\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D0368A-EECD-419F-A5EF-DDB24AA13688}|BigWing.MVC\\BigWing.MVC.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.mvc\\areas\\admin\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D0368A-EECD-419F-A5EF-DDB24AA13688}|BigWing.MVC\\BigWing.MVC.csproj|solutionrelative:bigwing.mvc\\areas\\admin\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D0368A-EECD-419F-A5EF-DDB24AA13688}|BigWing.MVC\\BigWing.MVC.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D0368A-EECD-419F-A5EF-DDB24AA13688}|BigWing.MVC\\BigWing.MVC.csproj|solutionrelative:bigwing.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D0368A-EECD-419F-A5EF-DDB24AA13688}|BigWing.MVC\\BigWing.MVC.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D0368A-EECD-419F-A5EF-DDB24AA13688}|BigWing.MVC\\BigWing.MVC.csproj|solutionrelative:bigwing.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D0368A-EECD-419F-A5EF-DDB24AA13688}|BigWing.MVC\\BigWing.MVC.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D0368A-EECD-419F-A5EF-DDB24AA13688}|BigWing.MVC\\BigWing.MVC.csproj|solutionrelative:bigwing.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|solutionrelative:bigwing.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.bl\\services\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|solutionrelative:bigwing.bl\\services\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.bl\\services\\implements\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|solutionrelative:bigwing.bl\\services\\implements\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.bl\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|solutionrelative:bigwing.bl\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.bl\\profiles\\departmentprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|solutionrelative:bigwing.bl\\profiles\\departmentprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.bl\\profiles\\clientregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|solutionrelative:bigwing.bl\\profiles\\clientregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.bl\\viewmodels\\clients\\clientlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|solutionrelative:bigwing.bl\\viewmodels\\clients\\clientlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.bl\\viewmodels\\clients\\clientupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|solutionrelative:bigwing.bl\\viewmodels\\clients\\clientupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.bl\\viewmodels\\clients\\clientcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|solutionrelative:bigwing.bl\\viewmodels\\clients\\clientcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.bl\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|solutionrelative:bigwing.bl\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4179C8-7613-4CC2-B57D-AEE4BB53531E}|BigWing.Core\\BigWing.Core.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.core\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4179C8-7613-4CC2-B57D-AEE4BB53531E}|BigWing.Core\\BigWing.Core.csproj|solutionrelative:bigwing.core\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.bl\\viewmodels\\departments\\departmentlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|solutionrelative:bigwing.bl\\viewmodels\\departments\\departmentlistitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.bl\\viewmodels\\departments\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F109EABA-9AAB-4D4C-9F6D-FDA11A549E05}|BigWing.BL\\BigWing.BL.csproj|solutionrelative:bigwing.bl\\viewmodels\\departments\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920A16DE-04F7-4270-9D8B-AA16D13463D5}|BigWing.DAL\\BigWing.DAL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.dal\\configuration\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920A16DE-04F7-4270-9D8B-AA16D13463D5}|BigWing.DAL\\BigWing.DAL.csproj|solutionrelative:bigwing.dal\\configuration\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920A16DE-04F7-4270-9D8B-AA16D13463D5}|BigWing.DAL\\BigWing.DAL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.dal\\configuration\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920A16DE-04F7-4270-9D8B-AA16D13463D5}|BigWing.DAL\\BigWing.DAL.csproj|solutionrelative:bigwing.dal\\configuration\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920A16DE-04F7-4270-9D8B-AA16D13463D5}|BigWing.DAL\\BigWing.DAL.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.dal\\context\\bigwingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920A16DE-04F7-4270-9D8B-AA16D13463D5}|BigWing.DAL\\BigWing.DAL.csproj|solutionrelative:bigwing.dal\\context\\bigwingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D0368A-EECD-419F-A5EF-DDB24AA13688}|BigWing.MVC\\BigWing.MVC.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3D0368A-EECD-419F-A5EF-DDB24AA13688}|BigWing.MVC\\BigWing.MVC.csproj|solutionrelative:bigwing.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4179C8-7613-4CC2-B57D-AEE4BB53531E}|BigWing.Core\\BigWing.Core.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4179C8-7613-4CC2-B57D-AEE4BB53531E}|BigWing.Core\\BigWing.Core.csproj|solutionrelative:bigwing.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4179C8-7613-4CC2-B57D-AEE4BB53531E}|BigWing.Core\\BigWing.Core.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.core\\entities\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4179C8-7613-4CC2-B57D-AEE4BB53531E}|BigWing.Core\\BigWing.Core.csproj|solutionrelative:bigwing.core\\entities\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4179C8-7613-4CC2-B57D-AEE4BB53531E}|BigWing.Core\\BigWing.Core.csproj|c:\\users\\classtime\\desktop\\bigwing\\bigwing.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4179C8-7613-4CC2-B57D-AEE4BB53531E}|BigWing.Core\\BigWing.Core.csproj|solutionrelative:bigwing.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\Services\\Implements\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "BigWing.BL\\Services\\Implements\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\Services\\Implements\\DepartmentService.cs",
+              "RelativeToolTip": "BigWing.BL\\Services\\Implements\\DepartmentService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:05:49.852Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\Services\\Implements\\ClientService.cs",
+              "RelativeDocumentMoniker": "BigWing.BL\\Services\\Implements\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\Services\\Implements\\ClientService.cs",
+              "RelativeToolTip": "BigWing.BL\\Services\\Implements\\ClientService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:04:35.31Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.MVC\\Areas\\Admin\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "BigWing.MVC\\Areas\\Admin\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.MVC\\Areas\\Admin\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "BigWing.MVC\\Areas\\Admin\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:43:54.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "BigWing.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "BigWing.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:43:35.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BigWing.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BigWing.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:42:35.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "BigWing.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "BigWing.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:32:54.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\Services\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "BigWing.BL\\Services\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\Services\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "BigWing.BL\\Services\\Interfaces\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:04:48.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "BigWing.BL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ServiceRegistration.cs",
+              "RelativeToolTip": "BigWing.BL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAtwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:58:32.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\Profiles\\DepartmentProfiles.cs",
+              "RelativeDocumentMoniker": "BigWing.BL\\Profiles\\DepartmentProfiles.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\Profiles\\DepartmentProfiles.cs",
+              "RelativeToolTip": "BigWing.BL\\Profiles\\DepartmentProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:57:31.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "BigWing.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.MVC\\Program.cs",
+              "RelativeToolTip": "BigWing.MVC\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:09:56.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\Profiles\\ClientRegistration.cs",
+              "RelativeDocumentMoniker": "BigWing.BL\\Profiles\\ClientRegistration.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\Profiles\\ClientRegistration.cs",
+              "RelativeToolTip": "BigWing.BL\\Profiles\\ClientRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:59:29.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientListItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ViewModels\\Clients\\ClientListItemVM.cs",
+              "RelativeDocumentMoniker": "BigWing.BL\\ViewModels\\Clients\\ClientListItemVM.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ViewModels\\Clients\\ClientListItemVM.cs",
+              "RelativeToolTip": "BigWing.BL\\ViewModels\\Clients\\ClientListItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:55:42.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ViewModels\\Clients\\ClientUpdateVM.cs",
+              "RelativeDocumentMoniker": "BigWing.BL\\ViewModels\\Clients\\ClientUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ViewModels\\Clients\\ClientUpdateVM.cs",
+              "RelativeToolTip": "BigWing.BL\\ViewModels\\Clients\\ClientUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:54:01.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ViewModels\\Clients\\ClientCreateVM.cs",
+              "RelativeDocumentMoniker": "BigWing.BL\\ViewModels\\Clients\\ClientCreateVM.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ViewModels\\Clients\\ClientCreateVM.cs",
+              "RelativeToolTip": "BigWing.BL\\ViewModels\\Clients\\ClientCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:49:03.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentListItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ViewModels\\Departments\\DepartmentListItemVM.cs",
+              "RelativeDocumentMoniker": "BigWing.BL\\ViewModels\\Departments\\DepartmentListItemVM.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ViewModels\\Departments\\DepartmentListItemVM.cs",
+              "RelativeToolTip": "BigWing.BL\\ViewModels\\Departments\\DepartmentListItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:42:41.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartmentUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "RelativeDocumentMoniker": "BigWing.BL\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "RelativeToolTip": "BigWing.BL\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:42:22.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeDocumentMoniker": "BigWing.BL\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.BL\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeToolTip": "BigWing.BL\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:42:10.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.DAL\\Configuration\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "BigWing.DAL\\Configuration\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.DAL\\Configuration\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "BigWing.DAL\\Configuration\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:14:19.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.DAL\\Configuration\\ClientConfiguration.cs",
+              "RelativeDocumentMoniker": "BigWing.DAL\\Configuration\\ClientConfiguration.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.DAL\\Configuration\\ClientConfiguration.cs",
+              "RelativeToolTip": "BigWing.DAL\\Configuration\\ClientConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:13:31.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.Core\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "BigWing.Core\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.Core\\Entities\\Client.cs",
+              "RelativeToolTip": "BigWing.Core\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:56:29.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "BigWing.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.MVC\\appsettings.json",
+              "RelativeToolTip": "BigWing.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T06:07:52.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BigWingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.DAL\\Context\\BigWingDbContext.cs",
+              "RelativeDocumentMoniker": "BigWing.DAL\\Context\\BigWingDbContext.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.DAL\\Context\\BigWingDbContext.cs",
+              "RelativeToolTip": "BigWing.DAL\\Context\\BigWingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:03:14.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.Core\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "BigWing.Core\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.Core\\Entities\\Department.cs",
+              "RelativeToolTip": "BigWing.Core\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:59:41.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.Core\\Entities\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "BigWing.Core\\Entities\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.Core\\Entities\\GlobalUsing.cs",
+              "RelativeToolTip": "BigWing.Core\\Entities\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:54:43.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BigWing.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\BigWing\\BigWing.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "BigWing.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:54:34.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
